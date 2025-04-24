@@ -14,3 +14,4 @@ file_object = open('info.txt' mode = 'wt'endcoding)
 data = file_object("我为")
 data_list.append()
 WHO ARE YOU 
+HELLO.WORD
